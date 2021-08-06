@@ -1,1 +1,18 @@
-
+1.Patient
+ a.Registration of new patients
+ b.Appointment Management
+ c.Maintaining health records
+ d.Accessing health records
+ e.Admission and Discharge
+ 
+2.Doctors
+ a.Availability
+ b.Patient Assignment
+ c.Prescription
+ d.Documentation of health
+ 
+3.Operational (Staff)
+ a.Administration of Hospital Management system
+ b.Workers
+ c.Nurses
+ d.Staff
