@@ -4,7 +4,11 @@ Problem statement:
 Hospital management software is a web-based system that works to manage different aspects of a medical facility. Its objective is to dematerialize the different processes of the medical center. It integrates all important data about doctors, patients, staff, administrative details, etc. There is a growing demand for healthcare app developers and for all the right reasons.
 
 Features:
+
 Maintain digital records
+
 Less time consuming
+
 Track and avoid mistakes
+
 Easy to understand
